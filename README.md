@@ -1,2 +1,0 @@
-# Multi-linear-regression-
-MLR
